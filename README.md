@@ -1,13 +1,19 @@
 # Education-Articles
 Educational articles released by SVCAF
 
-# 《知道你的权利 — 当遭遇执法人员时》中英文对照版本 v1.0 
+# 《知道你的权利 — 当遭遇执法人员时》
+
+中英文对照版本 v1.0 
 
 美国民权自由联盟《知道你的权利 — 当遭遇执法人员时》中英文对照版本 v1.0由硅谷华人协会基金会 (Silicon Valley Chinese Association Foundation or SVCA Foundation) 组织资源编写。编写的动机是近年来多起涉及华人的案件（例如江波，Sherry Chen 案件）出现涉案者因为所说的话而被控告对执法人员撒谎 （lying to federal agents / officers）。希望本手册能帮助普及和执法人员打交道的背景知识和相关法律。为了更大范围服务华人， 欢迎自由转载传播本文件。
 
 下载链接：　knowYourRights_Chinese_English_v1.pdf
 
-# 加州《枪支安全证书学习手册》的中英文对照版本 v1.0 
+# 加州《枪支安全证书学习手册》
+
+California Firearms Safety Certificate Study Manual: Chinese-English
+
+中英文对照版本 v1.0 
 
 由硅谷华 人协会基金会 (Silicon Valley Chinese Association Foundation or SVCA Foundation) 组织资源翻译编写。目的是帮助普及加州华人关心话题（枪支是热门话题之一）的背景知识和相关法律。不论您持 禁枪还是拥枪观点，了解枪支安全的基本知识，熟悉加州枪支的基 本法律法规，都是有益无害的。
 
