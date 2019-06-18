@@ -13,11 +13,11 @@ Educational articles released by SVCAF
 
 California Firearms Safety Certificate Study Manual: Chinese-English
 
-中英文对照版本 v1.0 , 2015
+中英文对照版本 
+* v 1.0, 2015 下载链接：[pdf](https://github.com/svcaf/Education-Articles/blob/master/caGunLaw-2015-Jan.pdf)
+* v 2.0, 2019 下载链接：[pdf](https://github.com/svcaf/Education-Articles/blob/master/hscsg_2019_Chinese_English.pdf)
 
 由硅谷华 人协会基金会 (Silicon Valley Chinese Association Foundation or SVCA Foundation) 组织资源翻译编写。目的是帮助普及加州华人关心话题（枪支是热门话题之一）的背景知识和相关法律。不论您持 禁枪还是拥枪观点，了解枪支安全的基本知识，熟悉加州枪支的基 本法律法规，都是有益无害的。
-
-下载链接：[pdf](https://github.com/svcaf/Education-Articles/blob/master/caGunLaw-2015-Jan.pdf)
 
 # Disclaimer 
 
