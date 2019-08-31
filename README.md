@@ -19,6 +19,11 @@ California Firearms Safety Certificate Study Manual: Chinese-English
 
 由硅谷华 人协会基金会 (Silicon Valley Chinese Association Foundation or SVCA Foundation) 组织资源翻译编写。目的是帮助普及加州华人关心话题（枪支是热门话题之一）的背景知识和相关法律。不论您持 禁枪还是拥枪观点，了解枪支安全的基本知识，熟悉加州枪支的基 本法律法规，都是有益无害的。
 
+# 如何在加州注册501(c)(3)非赢利公益组织 
+
+v0.2 草稿版 | How to create a 501(c)(3) Nonprofit corporation in California v0.2 draft 
+[link](https://github.com/svcaf/howto501c3/blob/master/README.md)
+
 # Disclaimer 
 
 因为时间仓促，出现错误遗漏在所难免。欢迎发信到 info@svcaf.org 批评指正，我们将在下一版本中改进。任何文中有不确信的地方以英文原文为准，我们不负担因为编译错误引起的法律责任。
