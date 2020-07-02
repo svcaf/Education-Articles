@@ -4,7 +4,7 @@ Chinese Exclusion Act, formally Immigration Act of 1882, U.S. federal law that w
 
 排华法案，前身是1882年移民法案，是美国联邦法律中第一个也是唯一一个明确暂停特定国籍移民的主要联邦立法。排华法案的基本内容禁止被定义为“技术和非技术工人以及从事采矿业的劳工”的中国劳工入境。随后的法律修正案阻止了离开美国的中国劳工回国。该法案的通过代表了多年来美国白人种族敌对和反移民的鼓动，开启了一个新纪元，自此以后，限制其他国籍移民的措施开始出现，美国从此从一个几乎欢迎所有移民的国家转变为一个设置移民门槛的国家。
 
-![Throwing Down the Ladder by Which They Rose](https://github.com/nolan-industry/images/blob/master/Throwing%20Down%20the%20Ladder%20by%20Which%20They%20Rose.jpg)
+![Throwing Down the Ladder by Which They Rose](https://github.com/svcaf/Education-Articles/blob/master/Images/Throwing%20Down%20the%20Ladder%20by%20Which%20They%20Rose.jpg)
 
 “Throwing Down the Ladder by Which They Rose,” cartoon by Thomas Nast, Harper’s Weekly, July 23, 1870.
 
@@ -19,7 +19,7 @@ The Chinese Exclusion Act was passed by Congress and signed by Pres. Chester A. 
 
 排华法案于1882年由国会通过，并由切斯特·阿瑟（Chester A. Arthur）总统签署。它执行了10年，1892年的基瑞法案又让它延长了10年，该法案还要求中国血统的人携带身份证明，否则将会面临驱逐出境。后来的措施还对中国人施加了一些其他限制，比如限制他们获得保释金，只允许教师、学生、外交官和游客入境。国会在1902年将排华法案再延长10年，并在1904年无限期延长，几乎完全关闭了对中国移民的大门。
 
-![描绘美国前总统切斯特A.  亚瑟签署排斥华人法案的卡通](https://github.com/nolan-industry/images/blob/master/描绘美国前总统切斯特A.%20%20亚瑟签署排斥华人法案的卡通.jpg)
+![描绘美国前总统切斯特A.  亚瑟签署排斥华人法案的卡通](https://github.com/svcaf/Education-Articles/blob/master/Images/描绘美国前总统切斯特A.%20%20亚瑟签署排斥华人法案的卡通.jpg)
 
 描绘美国前总统切斯特A.  亚瑟签署排斥华人法案的卡通， Puck杂志封面  ，1882年5月17日。
 
@@ -41,7 +41,7 @@ Many scholars explain the institution of the Chinese Exclusion Act and similar l
 
 许多学者将排华法案和类似法律的制定归咎为19世纪下半叶加州广泛的反华运动的产物。自19世纪中叶以来，中国人在西海岸已成为一个重要的少数族裔。最初，他们在金矿场工作，他们在那里展示了挖掘黄金的能力。结果，他们遭遇敌意，逐渐被迫离开工作场地，搬到旧金山等城市地区，在那里他们常常只能从事一些最肮脏、最艰苦的工作。在西方，美国人坚持他们对中国人的成见，认为中国人是堕落的、异心的、危险的，是工作和工资方面的竞争对手。加州参议员约翰米勒（JohnF.Miller）是排华法案的支持者，他认为中国工人“像机器一样……神经迟钝，但不受环境影响、肌肉发达。”由于这种部分的成见，西方的劳工组织促使限制中国人涌入美国成为其目标之一。换言之，这种排斥是草根反华情绪的结果。其他学者认为，这种排斥应该归咎于自上而下的政治，而不是自下而上的运动，他们解释说，国家政客操纵白人工人以获得选举优势。还有一些人相信“民族种族主义论点”，这种论点重点描述的是早期美国民族文化中普遍存在的反华种族主义。
 
-![中国的黄金矿工与白人并肩工作  加州中部奥本峡谷的矿工  1852](https://github.com/nolan-industry/images/blob/master/中国的黄金矿工与白人并肩工作%20%20加州中部奥本峡谷的矿工%20%201852.jpg)
+![中国的黄金矿工与白人并肩工作  加州中部奥本峡谷的矿工  1852](https://github.com/svcaf/Education-Articles/blob/master/Images/中国的黄金矿工与白人并肩工作%20%20加州中部奥本峡谷的矿工%20%201852.jpg)
 
 中国的黄金矿工与白人并肩工作  加州中部奥本峡谷的矿工  1852。
 
@@ -55,7 +55,7 @@ The excluded Chinese did not passively accept unfair treatment but rather used a
 
 被排斥的中国人并不是被动地接受不公平待遇，而是利用各种手段挑战或规避法律。其中一个工具就是美国的司法系统。尽管中国移民来自一个没有诉讼传统的国家，但他们很快学会了将法院作为争取自己权利的场所，在许多针对中国人的法令被州或联邦法院宣布违宪的案件中胜诉。他们在法律斗争中得到了弗雷德里克·比（Frederick Bee）的帮助，他是加州企业家和律师，是美国主要的中国移民民权倡导者之一，他在1882年至1892年期间代表他们中的许多人出庭。他们还通过媒体和请愿等其他途径抗议种族歧视。
 
-![中国问题](https://github.com/nolan-industry/images/blob/master/中国问题.jpg)
+![中国问题](https://github.com/svcaf/Education-Articles/blob/master/Images/中国问题.jpg)
 
 “中国问题”，托马斯·纳斯特（Thomas Nast）的漫画，  《哈珀周刊》，1871年2月18日。
 
