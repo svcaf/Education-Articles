@@ -1,4 +1,4 @@
-![jason](https://github.com/nolan-industry/images/blob/master/jason.jpg)
+![jason](https://github.com/svcaf/Education-Articles/blob/master/Images/jason.jpg)
 by 贺全,  照片: Jenny,  整理： Liao （欢迎转发）
 
 这次职场经验讲座是由贺全牵头组织义工举办。邀请了二十多年FinTech退休高管陆先生为给职场的朋友们介绍些经验，建立些联系，以后可以互相帮助，互通信息，乃至互相提携。改变我们自己的一些习惯，提高自己，也在探讨之列。
@@ -15,7 +15,7 @@ SVCA基金会资助$500买了pizza, 方便中午参加讲座的嘉宾，义工�
 
 万能药？ vs 专业domain能力的支撑，精与深; vs 旁边的side track的知识、技能。
 
-![jason2](https://github.com/nolan-industry/images/blob/master/jason2.jpg)
+![jason2](https://github.com/svcaf/Education-Articles/blob/master/Images/jason2.jpg)
 
 – 风险，担当，主人翁精神
 
@@ -25,7 +25,7 @@ SVCA基金会资助$500买了pizza, 方便中午参加讲座的嘉宾，义工�
 
 危与机，危转化为机会。。。帮公司排忧解难。
 
-![4-box](https://github.com/nolan-industry/images/blob/master/4box.jpg)
+![4-box](https://github.com/svcaf/Education-Articles/blob/master/Images/4box.jpg)
 这个图是关于passion与skill的4-box；
 
 低skill+缺passion, 这个属于混，肯定不行，得改变，不改变的话，会被干掉的。
@@ -79,7 +79,7 @@ Hire for career vs Hire for a job
 
 追求卓越， 赋能他人。。。是自然而然的做，不是居高临下的；
 
-![leader](https://github.com/nolan-industry/images/blob/master/leader.jpg)
+![leader](https://github.com/svcaf/Education-Articles/blob/master/Images/leader.jpg)
 
 Leader, 保持良好的沟通；
 
@@ -108,7 +108,7 @@ Leader, 保持良好的沟通；
 
 不要老想脚踏两只船。
 
-![xcurve](https://github.com/nolan-industry/images/blob/master/xcurve.jpg)
+![xcurve](https://github.com/svcaf/Education-Articles/blob/master/Images/xcurve.jpg)
 这个，算是X-Curve, 
 
 一条随着年龄的增长，你对于公司的综合价值，（越来越低）；
@@ -119,7 +119,7 @@ Leader, 保持良好的沟通；
 
 转JY: 主讲人一开始就说，开会第一排没人，这是典型的中国人会场；如果是印度或白人，第一排会坐满
 
-![firstrow](https://github.com/nolan-industry/images/blob/master/firstrow.jpg)
+![firstrow](https://github.com/svcaf/Education-Articles/blob/master/Images/firstrow.jpg)
 
 转JY: 他讲中国人作leader 要勇于担当，对credit and 过失都不退缩。他做code 一个重要项目出现bug, 用户团队的老板emailed him 20 “Fuck!”  他当时把20 fuck 打印下来贴在墙上，激励自己, 很快和人合作fix bug…
 
@@ -230,7 +230,7 @@ Staya说让我想一想，第二天一早，他对Steve说，我完全支持你�
 
 Satya分享了很多鲜为人知的个人故事和经历，放弃绿卡，如果照顾自己有智障的孩子，境界，胸怀，视野，同情心。。。他有伟大的人格魅力，不仅聪明绝顶，还是一个善于思考，充满智慧的领导者，让微软1+1》N，是当代最伟大的企业家。本书由盖茨作序，推荐给大家
 
-![book](https://github.com/nolan-industry/images/blob/master/book.jpg)
+![book](https://github.com/svcaf/Education-Articles/blob/master/Images/book.jpg)
 
 # 鸣谢 #
 
@@ -248,12 +248,12 @@ Satya分享了很多鲜为人知的个人故事和经历，放弃绿卡，如果
 
 # 更多现场照片 #
 
-![1](https://github.com/nolan-industry/images/blob/master/more1.jpg)
+![1](https://github.com/svcaf/Education-Articles/blob/master/Images/more1.jpg)
 
-![2](https://github.com/nolan-industry/images/blob/master/more2.jpg)
+![2](https://github.com/svcaf/Education-Articles/blob/master/Images/more2.jpg)
 
-![3](https://github.com/nolan-industry/images/blob/master/more3.jpg)
+![3](https://github.com/svcaf/Education-Articles/blob/master/Images/more3.jpg)
 
-![4](https://github.com/nolan-industry/images/blob/master/more4.jpg)
+![4](https://github.com/svcaf/Education-Articles/blob/master/Images/more4.jpg)
 
-![flyer](https://github.com/nolan-industry/images/blob/master/flyer.jpg)
+![flyer](https://github.com/svcaf/Education-Articles/blob/master/Images/flyer.jpg)
