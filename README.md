@@ -35,7 +35,7 @@
 
 1. [成为沃伦•巴菲特 2017 HBO纪录片| Becoming Warren Buffett 2017 HBO Documentary Films](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E6%88%90%E4%B8%BA%E6%B2%83%E4%BC%A6%E2%80%A2%E5%B7%B4%E8%8F%B2%E7%89%B9%202017%20HBO%E7%BA%AA%E5%BD%95%E7%89%87%7C%20Becoming%20Warren%20Buffett%202017%20HBO%20Documentary%20Films.md)
 
-2. [巴菲特在佛罗里达大学商学院的演讲| Buffett Lecture at the University of Florida School of Business October 15, 1998](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%9C%A8%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E6%BC%94%E8%AE%B2%7C%20Buffett%20Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business%20October%2015%2C%201998) 
+2. [巴菲特在佛罗里达大学商学院的演讲| Buffett Lecture at the University of Florida School of Business October 15, 1998](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%9C%A8%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E9%99%A2%E7%9A%84%E6%BC%94%E8%AE%B2%7C%20Buffett%20Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business%20October%2015%2C%201998.md) 
 
 3. [Jason Lu 职场讲座笔记](https://github.com/svcaf/Education-Articles/blob/master/Articles/Jason%20Lu%20%E8%81%8C%E5%9C%BA%E8%AE%B2%E5%BA%A7%E7%AC%94%E8%AE%B0.md)
 
