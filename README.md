@@ -21,7 +21,7 @@
 
 2. [通过雇主把义工小时换钱捐非盈利组织 | Through employers, volunteer hours changed to donations for non-profit organizations](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E9%80%9A%E8%BF%87%E9%9B%87%E4%B8%BB%E6%8A%8A%E4%B9%89%E5%B7%A5%E5%B0%8F%E6%97%B6%E6%8D%A2%E9%92%B1%E6%8D%90%E9%9D%9E%E7%9B%88%E5%88%A9%E7%BB%84%E7%BB%87%20%7C%20Through%20employers%2C%20volunteer%20hours%20changed%20to%20donations%20for%20non-profit%20organizations.md)
 
-3. [如何在加州注册501(c)(3)非赢利公益组织 v0.2 草稿版 | How to create a 501(c)(3) Nonprofit corporation in California v0.2 draft](http://tinyurl.com/howto501c3)
+3. [如何在加州注册501(c)(3)非赢利公益组织 v0.2 草稿版 | How to create a 501(c)(3) Nonprofit corporation in California v0.2 draft](https://github.com/svcaf/Education-Articles/blob/master/Articles/%5B%E5%A6%82%E4%BD%95%E5%9C%A8%E5%8A%A0%E5%B7%9E%E6%B3%A8%E5%86%8C501(c)(3)%E9%9D%9E%E8%B5%A2%E5%88%A9%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87%20v0.2%20%E8%8D%89%E7%A8%BF%E7%89%88%20%20How%20to%20create%20a%20501(c)(3)%20Nonprofit%20corporation%20in%20California%20v0.2%20draft.md)
 
 4. [是的，非营利组织可以并且应该把政治倡导作为核心能力|Yes, You Can—and Should! Nonprofit Advocacy as a Core Competency](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E6%98%AF%E7%9A%84%EF%BC%8C%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87%E5%8F%AF%E4%BB%A5%E5%B9%B6%E4%B8%94%E5%BA%94%E8%AF%A5%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%80%A1%E5%AF%BC%E4%BD%9C%E4%B8%BA%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B%7CYes%2C%20You%20Can%E2%80%94and%20Should!%20Nonprofit%20Advocacy%20as%20a%20Core%20Competency.md)
 
@@ -39,7 +39,7 @@
 
 3. [Jason Lu 职场讲座笔记](https://github.com/svcaf/Education-Articles/blob/master/Articles/Jason%20Lu%20%E8%81%8C%E5%9C%BA%E8%AE%B2%E5%BA%A7%E7%AC%94%E8%AE%B0.md)
 
-4. [详解硅谷华人为什么拼不过印度人](https://mp.weixin.qq.com/s/rm9US1bQ8cqb4HrOkTKfZA)
+4. [详解硅谷华人为什么拼不过印度人](https://github.com/svcaf/Education-Articles/blob/master/Articles/%E8%AF%A6%E8%A7%A3%E7%A1%85%E8%B0%B7%E5%8D%8E%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%BC%E4%B8%8D%E8%BF%87%E5%8D%B0%E5%BA%A6%E4%BA%BA.md)
 
 
 
